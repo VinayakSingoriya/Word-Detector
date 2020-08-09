@@ -18,4 +18,5 @@ if __name__ == "__main__":
                 print(f">>>{word} found in {item}!!!!\n")
                 found_word += 1
             else:
-                print(f">>>{word} not found in {item}\n")    
+                print(f">>>{word} not found in {item}\n") 
+    print(f"\n ** Found {word} in {found_word} files")               
