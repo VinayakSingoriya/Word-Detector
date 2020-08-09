@@ -1,0 +1,4 @@
+Monarch Server takes self-service data preparation to a whole new level. Extend the desktop-based data preparation capabilities of Monarch into a comprehensive, enterprise-wide solution. Monarch Server�s options allow organizations to work more collaboratively, store and retrieve reports easier, and distribute model results beyond the Monarch platform.
+
+Data transformation workflows created with Monarch can be stored and shared on Monarch Server. Automate advanced data preparation and model building processes. Manage the storage, indexing, search and retrieval of core reports and text-based files using the Content Server module. Extend Monarch model results to users of CMS such as IBM CMOD, Fiserv Nautilus, Hyland Onbase, Mobius/ASG, and more.
+vinayak

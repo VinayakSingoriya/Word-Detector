@@ -1,0 +1,7 @@
+Bitnami Ruby on Rails stack provides a complete development environment for Ruby on Rails. It includes the latest stable release of Ruby, Rails, RVM, MySQL, SQLite, NGINX, Apache, Memcache, Git and Subversion, Sphinx, PHP, and phpMyAdmin. Popular gems like Thin, RMagick, Rake, Mongrel, Passenger, and Nokogiri are included, as well as components such as OpenSSL, openLDAP, CURL, and ImageMagick. Using a pre-configured Ruby on Rails environment gets you up and running quickly because everything works out of the box. Manually deploying and configuring an environment can be a difficult and time-consuming hurdle to developing an application. Bitnami has done this work for you, so you can avoid installing and configuring multiple components and libraries and instead focus on writing awesome code.
+
+Why use Bitnami Certified Apps? vinayak
+
+Bitnami certifies that our images are secure, up-to-date, and packaged using industry best practices.
+
+With Bitnami, you can trust what is in the app you're launching. We monitor all the applications we package for vulnerabilities, outdated components and libraries, and application updates. When any of these are identified, we patch and release every affected listing within a couple of days.

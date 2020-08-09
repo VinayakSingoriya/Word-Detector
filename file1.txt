@@ -1,0 +1,8 @@
+
+Sales Spirit is the company behind several publisher websites, such as Prijsvergelijken.nl: the largest telecom comparison website in the Netherlands. Important for our success is having a complete and flawless product offering on our websites. To achieve this goal, we work closely together with many business partners. Maintaining different and varying product offerings from business partners is a constant struggle.
+
+Automating the maintenance using partner APIs is an important aspect of our work at Sales Spirit. These APIs vary widely in terms of reliability, performance, protocols and language, completeness, etc. At the same time we like to offer our clients reliable, good performing and complete websites. It wasn�t until we incorporated Python in our workflow before we were fully up for this challenge. Python has helped us to built an API platform that does not only deliver output of great quality, but is very readable and maintainable as well.
+
+Building an API platform with Python vinayak
+
+We developed a tailor-made API platform at Sales Spirit, to deal with the APIs as provided by our business partners. The platform has many use cases, one such use case is our postcode check. Clients can fill in their postcode and house number at our broadband compare page, to check for broadband availability at their home address. Under the hood we check the availability of broadband at several broadband providers using their APIs. In this specific use case performance and reliability are very important, since we are dealing with a live service. The APIs themselves do not always offer this.
